@@ -9,15 +9,6 @@
 
 ## 🛠️ Current Projects
 
-### 💤 SleepyOS
-A lightweight experimental operating system project.
-
-### 🎵 SleepyMusic
-A simple music player written in Python.
-
-### 🌍 SleepyLocationGenerator
-A small location generator built with Python.
-
 ### 🌐 SleepyBrowser
 A simple open source browser project.
 

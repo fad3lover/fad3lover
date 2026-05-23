@@ -9,8 +9,8 @@
 
 ## 🛠️ Current Projects
 
-### 🌐 SleepyBrowser
-A simple open source browser project.
+### BTCmine
+A simple Bitcoin Mining platform 
 
 ---
 
